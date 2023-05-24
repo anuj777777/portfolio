@@ -39,7 +39,7 @@ const About = () => {
           Hello, My name is Anuj Kumar, and I'm a Engineering Student under-graduate with a strong interest in software development and problem solving. I've been recognised for my academic achievements as well as my ability to collaborate and communicate effectively with team members throughout my academic career. 
           </p>
           <p>
-          In respective field, I collaborated as an FullStack Developer, building Website with technologies such as the Reactjs,NodeJs,express js,Mongodb. In addition, and I'm well-versed in data structures and algorithms. My experience has allowed me to hone my teamwork, problem-solving, and communication abilities.
+          In respective field, I collaborated as an FullStack Developer, building Website with technologies such as the Reactjs,NodeJs,express js,Mongodb. In addition, and I'm well-versed in data structures and algorithms. My experience has allowed me to done my teamwork, problem-solving, and communication abilities.
           </p>
          
           <a href="#contact" className="btn btn-primary">Let's Talk</a>

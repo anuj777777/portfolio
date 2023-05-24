@@ -30,7 +30,7 @@ const Contact = () => {
             <FaWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+917900741009</h5>
-            <a href="https://wa.me/917900741009?text=Hello%20Harsh%2C%20I%20have%20some%20queries%20related%20to%20your%20work%3F">SEND A MESSAGE</a>
+            <a href="https://wa.me/917900741009?text=Hello%20Anuj%2C%20I%20have%20some%20queries%20related%20to%20your%20work%3F">SEND AAGE</a>
           </article>
           <article className="contact__option">
             <TbBrandTwitter className='contact__option-icon'/>
@@ -42,7 +42,7 @@ const Contact = () => {
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your Full Name' required />
           <input type="email" name='email' placeholder='Your Email' required />
-          <textarea name="message" rows="7"placeholder= 'Your Message'required ></textarea>
+          <textarea name="message" rows="7"placeholder= 'Yourage'required ></textarea>
           <button type='submit' className="btn btn-primary">Send Message</button>
         </form>
       </div>

@@ -40,14 +40,14 @@ const data = [
   {
     id:5,
     image: QUIZIE,
-    title: 'This is a Hotel Management Website',
+    title: 'This is a Parallex Website',
     github: 'https://github.com/anuj777777/html-css-project',
     demo: 'https://property-market.netlify.app/'
   },
   {
     id:6,
     image: CALCI,
-    title: 'This is a Calculator',
+    title: 'This is a Hotel Management',
     github: 'https://github.com/anuj777777/html-css-project',
     demo: 'https://property-market.netlify.app/'
   },

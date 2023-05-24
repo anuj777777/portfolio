@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-[Webite Link](https://harshsingh-io.github.io/portfolio/)
+<!-- [Webite Link](https://harshsingh-io.github.io/portfolio/) -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
 ## Available Scripts
 
